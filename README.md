@@ -118,7 +118,7 @@
 * Вопросы регуляризации и аугментации данных.
 
 [Видеозапись седьмой лекции]()
-[Презентация к лекции 7](https://github.com/kvvik/DL_Course_SamU/blob/master/Lectures/lecture_7_Training1_22.pdf)
+[Презентация к лекции 7](/Lectures/lecture_7_Training1_22.pdf)
 
 **Лекция 8. Базовые архитектуры СНС**
 * Базовые архитектуры - AlexNet, VGG, GoogleNet, ResNet, UNET и другие.

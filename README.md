@@ -40,8 +40,8 @@
 
 ### 🏁 Зачет и итоговая аттестация
 
-*   ❓ **Вопросы к зачету:** [Посмотреть список вопросов (quiz.md)](https://github.com/BosenkoTM/nn/blob/main/quiz.md)
-*   🎓 **Итоговый тест (Зачет):** [Пройти тестирование](https://envlab.ru/course/section.php?id=202)
+*   ❓ **Вопросы к зачету.** [Посмотреть список вопросов (quiz.md)](https://github.com/BosenkoTM/nn/blob/main/quiz.md)
+*   🎓 **Итоговый тест (Зачет).** [Пройти тестирование](https://envlab.ru/course/section.php?id=202)
 
 ---
 ---
